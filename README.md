@@ -28,19 +28,11 @@ You also need to have the GnuPG command-line tool (`gpg`) installed on your mach
 ```bash
 sudo apt-get install gnupg
 ```
+In Windows 
 
-## Setup
-
-1. Clone this repository to your local machine or download the script file `autogpg.py` directly.
-
-2. Open a terminal and navigate to the directory where the script is located.
-
-3. Install the required Python packages by running the following command:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
+```powershell
+winget install gnupg
+```
 ## Usage
 
 To use the script, follow these steps:
