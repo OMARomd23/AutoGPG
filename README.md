@@ -3,6 +3,16 @@
 
 This Python script automates the process of importing GPG keys and encrypting files using those keys. It provides options to import keys from the local machine or the Ubuntu key server, and then encrypt files based on the selected key.
 
+## Executable Version: AutoGPG
+
+If you prefer not to install the prerequisites manually, an executable version of the script called "AutoGPG.exe" is available. AutoGPG bundles all the necessary dependencies, allowing you to run the script without installing additional packages, but it runs a little slow.
+
+### Download AutoGPG
+
+You can download the AutoGPG executable from the following link:
+
+[AutoGPG Download](https://example.com/autogpg.exe)
+
 ## Prerequisites
 
 Before running this script, make sure you have the following prerequisites installed:
@@ -11,6 +21,7 @@ Before running this script, make sure you have the following prerequisites insta
 - GnuPG (GPG) command-line tool (`gpg`)
 - Playwright Python library
 - Colorama Python library
+
 
 You can install the required Python packages by running the following command:
 
