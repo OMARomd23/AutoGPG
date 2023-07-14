@@ -5,7 +5,7 @@ This Python script automates the process of importing GPG keys and encrypting fi
 
 ## Executable Version: AutoGPG
 
-If you prefer not to install the prerequisites manually, an executable version of the script called "AutoGPG.exe" is available. AutoGPG bundles all the necessary dependencies, allowing you to run the script without installing additional packages, but it runs a little slow ans you still have to install gnupg on your system.
+If you prefer not to install the prerequisites manually, an executable version of the script called "AutoGPG.exe" is available. AutoGPG bundles all the necessary dependencies, allowing you to run the script without installing additional packages, but it runs a little slow and you still have to install gnupg on your system.
 
 ### Download AutoGPG
 
