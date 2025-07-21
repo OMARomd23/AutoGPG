@@ -87,13 +87,10 @@ To use the script, follow these steps:
 
 This script is licensed under the [MIT License](LICENSE).
 
-## Disclaimer
-
-- This script is provided as-is and without warranty.
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact the author:
+If you have any questions or need further assistance, feel free to contact me:
 
   - Name: omar
-- Email: omsoudomar23@gmail.com
+- Email: oumessaoud-omar@proton.me
